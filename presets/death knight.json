@@ -1,0 +1,123 @@
+{
+  "targetMonsters": [
+    {
+      "chaos": false,
+      "name": "All Creatures",
+      "state": true,
+      "elite": true
+    }
+  ],
+  "healFriend": false,
+  "healing": true,
+  "eatableitems": [
+    {
+      "id": 3600
+    },
+    {
+      "id": 0
+    },
+    {
+      "id": 0
+    },
+    {
+      "id": 0
+    }
+  ],
+  "healCheck": false,
+  "healSpell": "",
+  "healSpellCheck": false,
+  "healUse": 1,
+  "healDirection": 1,
+  "healHpPercent": 100,
+  "huntingSpellRange": 2,
+  "eatFood": true,
+  "huntingMinMana": 50,
+  "lastVocation": "Death Knight",
+  "lastLevel": 8,
+  "exchangeMoney": true,
+  "buffs": true,
+  "alarmPlayerLowHealthValue": 50,
+  "macros": true,
+  "shootSpells": [
+    {
+      "turn": false,
+      "name": "Death Blade",
+      "state": true,
+      "words": "Death Blade",
+      "minCount": 1,
+      "pvp": false,
+      "range": 2,
+      "manaPercent": 50
+    },
+    {
+      "turn": false,
+      "name": "Thorned Shadows",
+      "state": true,
+      "words": "Thorned Shadows",
+      "minCount": 1,
+      "pvp": false,
+      "range": 2,
+      "manaPercent": 50
+    },
+    {
+      "turn": false,
+      "name": "Cursed Flames",
+      "state": true,
+      "words": "Cursed Flames",
+      "minCount": 1,
+      "pvp": false,
+      "range": 2,
+      "manaPercent": 50
+    }
+  ],
+  "hasteSpell": "haste",
+  "alarmChaos": true,
+  "alarmRaidEpic": true,
+  "alarmRaidStrange": false,
+  "alarmRaidLegendary": true,
+  "healingList": [
+    {
+      "type": 1,
+      "name": "health potion",
+      "itemId": 266,
+      "value": 95,
+      "state": true,
+      "when": 2,
+      "is": 1
+    },
+    {
+      "type": 1,
+      "name": "mana potion",
+      "itemId": 268,
+      "value": 85,
+      "state": true,
+      "when": 1,
+      "is": 1
+    },
+    {
+      "type": 2,
+      "name": "Open Wounds",
+      "words": "open wounds",
+      "value": 90,
+      "state": true,
+      "when": 2,
+      "is": 1
+    }
+  ],
+  "buffHaste": true,
+  "hasteSpellMana": "40",
+  "shooting": true,
+  "targetingPriority": 1,
+  "manaShield": false,
+  "manaShieldMana": "40",
+  "targeting": true,
+  "supportBuff": true,
+  "supportBuffMana": "40",
+  "overflowHp": "80",
+  "huntingSpellCount": 1,
+  "state": true,
+  "stackItems": false,
+  "alarmPlayerLowManaValue": 50,
+  "alarms": true,
+  "healItem": 0
+}

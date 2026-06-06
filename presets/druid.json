@@ -1,0 +1,150 @@
+{
+  "alarms": true,
+  "macros": true,
+  "alarmRaidEpic": true,
+  "alarmRaidStrange": false,
+  "targetMonsters": [
+    {
+      "name": "All Creatures",
+      "elite": true,
+      "chaos": false,
+      "state": true
+    }
+  ],
+  "alarmRaidLegendary": true,
+  "healFriend": false,
+  "eatableitems": [
+    {
+      "id": 3600
+    },
+    {
+      "id": 0
+    },
+    {
+      "id": 0
+    },
+    {
+      "id": 0
+    }
+  ],
+  "state": true,
+  "buffHaste": true,
+  "hasteSpellMana": "40",
+  "manaShield": true,
+  "manaShieldMana": "40",
+  "supportBuffMana": "40",
+  "hasteSpell": "haste",
+  "alarmChaos": true,
+  "targetingPriority": 1,
+  "targeting": true,
+  "lastVocation": "Druid",
+  "lastLevel": 8,
+  "healSpell": "",
+  "huntingSpellCount": 1,
+  "shootSpells": [
+    {
+      "turn": false,
+      "name": "Eternal Winter",
+      "state": true,
+      "words": "Eternal Winter",
+      "minCount": 1,
+      "pvp": false,
+      "range": 1,
+      "manaPercent": 50
+    },
+    {
+      "turn": false,
+      "name": "Carniphila Attack",
+      "state": true,
+      "words": "Carniphila Attack",
+      "minCount": 1,
+      "pvp": false,
+      "range": 3,
+      "manaPercent": 50
+    },
+    {
+      "turn": false,
+      "name": "Strong Terra Strike",
+      "state": true,
+      "words": "Strong Terra Strike",
+      "minCount": 1,
+      "pvp": false,
+      "range": 5,
+      "manaPercent": 50
+    },
+    {
+      "turn": false,
+      "name": "Ice Rain",
+      "state": true,
+      "words": "Ice Rain",
+      "minCount": 1,
+      "pvp": false,
+      "range": 1,
+      "manaPercent": 50
+    },
+    {
+      "turn": false,
+      "name": "Terra Strike",
+      "state": true,
+      "words": "Terra Strike",
+      "minCount": 1,
+      "pvp": false,
+      "range": 4,
+      "manaPercent": 50
+    }
+  ],
+  "healingList": [
+    {
+      "name": "health potion",
+      "state": true,
+      "type": 1,
+      "is": 1,
+      "when": 2,
+      "value": 95,
+      "itemId": 266
+    },
+    {
+      "name": "mana potion",
+      "state": true,
+      "type": 1,
+      "is": 1,
+      "when": 1,
+      "value": 95,
+      "itemId": 268
+    },
+    {
+      "name": "Light Healing",
+      "type": 2,
+      "words": "light healing",
+      "is": 1,
+      "when": 2,
+      "value": 95,
+      "state": true
+    },
+    {
+      "name": "Magic Infusion",
+      "type": 2,
+      "words": "Magic Infusion",
+      "is": 1,
+      "when": 1,
+      "value": 95,
+      "state": true
+    }
+  ],
+  "exchangeMoney": true,
+  "healing": true,
+  "healItem": 0,
+  "healCheck": false,
+  "eatFood": true,
+  "healSpellCheck": false,
+  "healUse": 1,
+  "healDirection": 1,
+  "healHpPercent": 100,
+  "huntingSpellRange": 8,
+  "alarmPlayerLowHealthValue": 50,
+  "huntingMinMana": 50,
+  "alarmPlayerLowManaValue": 50,
+  "stackItems": false,
+  "shooting": true,
+  "buffs": true
+}

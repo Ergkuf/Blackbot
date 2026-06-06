@@ -1,0 +1,151 @@
+{
+  "alarms": true,
+  "macros": true,
+  "alarmRaidEpic": true,
+  "alarmRaidStrange": false,
+  "hasteSpell": "haste",
+  "alarmRaidLegendary": true,
+  "healFriend": false,
+  "eatableitems": [
+    {
+      "id": 3600
+    },
+    {
+      "id": 0
+    },
+    {
+      "id": 0
+    },
+    {
+      "id": 0
+    }
+  ],
+  "state": true,
+  "buffHaste": true,
+  "hasteSpellMana": "40",
+  "manaShield": true,
+  "manaShieldMana": "40",
+  "supportBuffMana": "40",
+  "summonVoidling": true,
+  "healingList": [
+    {
+      "name": "health potion",
+      "state": true,
+      "type": 1,
+      "value": 95,
+      "when": 2,
+      "is": 1,
+      "itemId": 266
+    },
+    {
+      "name": "mana potion",
+      "state": true,
+      "type": 1,
+      "value": 95,
+      "when": 1,
+      "is": 1,
+      "itemId": 268
+    },
+    {
+      "name": "Light Healing",
+      "state": true,
+      "words": "light healing",
+      "value": 95,
+      "when": 2,
+      "is": 1,
+      "type": 2
+    },
+    {
+      "name": "Magic Infusion",
+      "state": true,
+      "words": "Magic Infusion",
+      "value": 95,
+      "when": 1,
+      "is": 1,
+      "type": 2
+    }
+  ],
+  "healSpell": "",
+  "stackItems": false,
+  "alarmPlayerLowManaValue": 50,
+  "lastVocation": "Voidcaller",
+  "lastLevel": 8,
+  "alarmChaos": true,
+  "alarmPlayerLowHealthValue": 50,
+  "shootSpells": [
+    {
+      "turn": false,
+      "name": "Abyssal Tear",
+      "state": true,
+      "words": "Abyssal Tear",
+      "minCount": 1,
+      "pvp": false,
+      "range": 1,
+      "manaPercent": 50
+    },
+    {
+      "turn": false,
+      "name": "Nether Gaze",
+      "state": true,
+      "words": "Nether Gaze",
+      "minCount": 1,
+      "pvp": false,
+      "range": 1,
+      "manaPercent": 50
+    },
+    {
+      "turn": false,
+      "name": "Rifts of Beyond",
+      "state": true,
+      "words": "Rifts of Beyond",
+      "minCount": 1,
+      "pvp": false,
+      "range": 4,
+      "manaPercent": 50
+    },
+    {
+      "turn": false,
+      "name": "Void Surge",
+      "state": true,
+      "words": "Void Surge",
+      "minCount": 1,
+      "pvp": false,
+      "range": 1,
+      "manaPercent": 50
+    },
+    {
+      "turn": false,
+      "name": "Void Bolt",
+      "state": true,
+      "words": "Void Bolt",
+      "minCount": 1,
+      "pvp": false,
+      "range": 3,
+      "manaPercent": 50
+    }
+  ],
+  "targetMonsters": [
+    {
+      "name": "All Creatures",
+      "elite": true,
+      "chaos": false,
+      "state": true
+    }
+  ],
+  "healHpPercent": 100,
+  "healing": true,
+  "healItem": 0,
+  "healCheck": false,
+  "eatFood": true,
+  "healSpellCheck": false,
+  "healUse": 1,
+  "healDirection": 1,
+  "exchangeMoney": true,
+  "huntingSpellRange": 8,
+  "huntingSpellCount": 1,
+  "huntingMinMana": 50,
+  "targeting": true,
+  "targetingPriority": 1,
+  "shooting": true,
+  "buffs": true
+}

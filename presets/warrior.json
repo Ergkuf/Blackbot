@@ -1,0 +1,142 @@
+{
+  "targetMonsters": [
+    {
+      "chaos": false,
+      "name": "All Creatures",
+      "state": true,
+      "elite": true
+    }
+  ],
+  "healFriend": false,
+  "healing": true,
+  "eatableitems": [
+    {
+      "id": 3600
+    },
+    {
+      "id": 0
+    },
+    {
+      "id": 0
+    },
+    {
+      "id": 0
+    }
+  ],
+  "healCheck": false,
+  "healSpell": "",
+  "healSpellCheck": false,
+  "healUse": 1,
+  "healDirection": 1,
+  "healHpPercent": 100,
+  "huntingSpellRange": 8,
+  "eatFood": true,
+  "huntingMinMana": 50,
+  "lastVocation": "Warrior",
+  "lastLevel": 8,
+  "exchangeMoney": true,
+  "buffs": true,
+  "alarmPlayerLowHealthValue": 50,
+  "macros": true,
+  "shootSpells": [
+    {
+      "turn": false,
+      "name": "Hundred Blades",
+      "state": true,
+      "words": "Hundred Blades",
+      "minCount": 1,
+      "pvp": false,
+      "range": 1,
+      "manaPercent": 50
+    },
+    {
+      "turn": false,
+      "name": "Cyclone",
+      "state": true,
+      "words": "Cyclone",
+      "minCount": 1,
+      "pvp": false,
+      "range": 1,
+      "manaPercent": 50
+    },
+    {
+      "turn": false,
+      "name": "Groundshaker",
+      "state": true,
+      "words": "Groundshaker",
+      "minCount": 1,
+      "pvp": false,
+      "range": 1,
+      "manaPercent": 50
+    },
+    {
+      "turn": false,
+      "name": "Fast Sweep",
+      "state": true,
+      "words": "Fast Sweep",
+      "minCount": 1,
+      "pvp": false,
+      "range": 1,
+      "manaPercent": 50
+    },
+    {
+      "turn": false,
+      "name": "Whirlwind Throw",
+      "state": true,
+      "words": "Whirlwind Throw",
+      "minCount": 1,
+      "pvp": false,
+      "range": 3,
+      "manaPercent": 50
+    }
+  ],
+  "hasteSpell": "haste",
+  "alarmChaos": true,
+  "alarmRaidEpic": true,
+  "alarmRaidStrange": false,
+  "alarmRaidLegendary": true,
+  "healingList": [
+    {
+      "type": 1,
+      "name": "health potion",
+      "itemId": 266,
+      "value": 95,
+      "state": true,
+      "when": 2,
+      "is": 1
+    },
+    {
+      "type": 1,
+      "name": "mana potion",
+      "itemId": 268,
+      "value": 85,
+      "state": true,
+      "when": 1,
+      "is": 1
+    },
+    {
+      "type": 2,
+      "name": "Wound Cleansing",
+      "words": "wound cleansing",
+      "value": 95,
+      "state": true,
+      "when": 2,
+      "is": 1
+    }
+  ],
+  "buffHaste": true,
+  "hasteSpellMana": "40",
+  "shooting": true,
+  "targetingPriority": 1,
+  "manaShield": false,
+  "manaShieldMana": "40",
+  "targeting": true,
+  "supportBuff": false,
+  "supportBuffMana": "40",
+  "huntingSpellCount": 1,
+  "state": true,
+  "stackItems": false,
+  "alarmPlayerLowManaValue": 50,
+  "alarms": true,
+  "healItem": 0
+}
