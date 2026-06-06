@@ -1,0 +1,3647 @@
+[
+  {
+    "name": "A Stressed Sugar Cube",
+    "lookType": 2134,
+    "level": 3080
+  },
+  {
+    "name": "A Weak Spot",
+    "lookType": 1956,
+    "level": 0
+  },
+  {
+    "name": "Abyssador",
+    "lookType": 495,
+    "level": 350
+  },
+  {
+    "name": "Abyssal Crabkin",
+    "lookType": 2417,
+    "level": 0
+  },
+  {
+    "name": "Abyssal Maw",
+    "lookType": 1677,
+    "level": 4100
+  },
+  {
+    "name": "Abyssal Tidebrute",
+    "lookType": 2418,
+    "level": 0
+  },
+  {
+    "name": "Abysshood",
+    "lookType": 300,
+    "level": 1350
+  },
+  {
+    "name": "Acolyte of the Cult",
+    "lookType": 194,
+    "level": 606
+  },
+  {
+    "name": "Adept of the Cult",
+    "lookType": 194,
+    "level": 605
+  },
+  {
+    "name": "Aegis Warden",
+    "lookType": 2313,
+    "level": 3600
+  },
+  {
+    "name": "Aetherial Banshee",
+    "lookType": 2146,
+    "level": 3500
+  },
+  {
+    "name": "Afflicted Strider",
+    "lookType": 1681,
+    "level": 2100
+  },
+  {
+    "name": "Ainz Ooal Gown",
+    "lookType": 2155,
+    "level": 3100
+  },
+  {
+    "name": "Akamaru",
+    "lookType": 1305,
+    "level": 2500
+  },
+  {
+    "name": "All Seeing Eye",
+    "lookType": 583,
+    "level": 1700
+  },
+  {
+    "name": "Alptramun",
+    "lookType": 1143,
+    "level": 2570
+  },
+  {
+    "name": "Amenediel",
+    "lookType": 1434,
+    "level": 350
+  },
+  {
+    "name": "Amenef the Burning",
+    "lookType": 541,
+    "level": 1150
+  },
+  {
+    "name": "Ancient Mummy",
+    "lookType": 976,
+    "level": 705
+  },
+  {
+    "name": "Ancient Scarab",
+    "lookType": 79,
+    "level": 800
+  },
+  {
+    "name": "Ancient Spawn of Morgathla",
+    "lookType": 79,
+    "level": 0
+  },
+  {
+    "name": "Angelic Guard",
+    "lookType": 2185,
+    "level": 0
+  },
+  {
+    "name": "Angry Candied Behemoth",
+    "lookType": 2144,
+    "level": 0
+  },
+  {
+    "name": "Animated Feather",
+    "lookType": 1058,
+    "level": 3050
+  },
+  {
+    "name": "Anomaly",
+    "lookType": 876,
+    "level": 1500
+  },
+  {
+    "name": "Anubis",
+    "lookType": 1517,
+    "level": 350
+  },
+  {
+    "name": "Arachnarok Spider",
+    "lookType": 1529,
+    "level": 2500
+  },
+  {
+    "name": "Arachneedyou",
+    "lookType": 1529,
+    "level": 3700
+  },
+  {
+    "name": "Aragorn",
+    "lookType": 73,
+    "level": 0
+  },
+  {
+    "name": "Archangel Gabriel",
+    "lookType": 2198,
+    "level": 2800
+  },
+  {
+    "name": "Archangel Michael",
+    "lookType": 2199,
+    "level": 2800
+  },
+  {
+    "name": "Archangel Raphael",
+    "lookType": 2200,
+    "level": 2800
+  },
+  {
+    "name": "Archangel Uriel",
+    "lookType": 103,
+    "level": 0
+  },
+  {
+    "name": "Archon of Despair",
+    "lookType": 2145,
+    "level": 3000
+  },
+  {
+    "name": "Armadile",
+    "lookType": 487,
+    "level": 220
+  },
+  {
+    "name": "Armored Drillworm",
+    "lookType": 527,
+    "level": 775
+  },
+  {
+    "name": "Arthoix",
+    "lookType": 287,
+    "level": 0
+  },
+  {
+    "name": "Askarak Demon",
+    "lookType": 420,
+    "level": 2410
+  },
+  {
+    "name": "Askarak Lord",
+    "lookType": 410,
+    "level": 2415
+  },
+  {
+    "name": "Askarak Prince",
+    "lookType": 1857,
+    "level": 2425
+  },
+  {
+    "name": "Askarak Warlord",
+    "lookType": 419,
+    "level": 2420
+  },
+  {
+    "name": "Asmodeus",
+    "lookType": 1536,
+    "level": 4000
+  },
+  {
+    "name": "Ass Ripper",
+    "lookType": 588,
+    "level": 1485
+  },
+  {
+    "name": "Assassin",
+    "lookType": 152,
+    "level": 901
+  },
+  {
+    "name": "Avar Tar",
+    "lookType": 73,
+    "level": 250
+  },
+  {
+    "name": "Ayana the Crimson Curse",
+    "lookType": 1967,
+    "level": 3600
+  },
+  {
+    "name": "Azaghal",
+    "lookType": 70,
+    "level": 120
+  },
+  {
+    "name": "Azerus",
+    "lookType": 309,
+    "level": 900
+  },
+  {
+    "name": "Azrael",
+    "lookType": 2030,
+    "level": 2005
+  },
+  {
+    "name": "Azrael Follower",
+    "lookType": 2031,
+    "level": 2000
+  },
+  {
+    "name": "Baleful Bunny",
+    "lookType": 1157,
+    "level": 625
+  },
+  {
+    "name": "Bambiceros",
+    "lookType": 1927,
+    "level": 2900
+  },
+  {
+    "name": "Banor",
+    "lookType": 1533,
+    "level": 455
+  },
+  {
+    "name": "Banor Servant",
+    "lookType": 1397,
+    "level": 450
+  },
+  {
+    "name": "Banshee",
+    "lookType": 78,
+    "level": 205
+  },
+  {
+    "name": "Barbaria",
+    "lookType": 264,
+    "level": 2800
+  },
+  {
+    "name": "Barbarian Bloodwalker",
+    "lookType": 255,
+    "level": 2750
+  },
+  {
+    "name": "Barbarian Brutetamer",
+    "lookType": 264,
+    "level": 2750
+  },
+  {
+    "name": "Barbarian Headsplitter",
+    "lookType": 253,
+    "level": 2750
+  },
+  {
+    "name": "Beelzebub",
+    "lookType": 12,
+    "level": 3900
+  },
+  {
+    "name": "Behemoth",
+    "lookType": 55,
+    "level": 475
+  },
+  {
+    "name": "Belphegor",
+    "lookType": 2017,
+    "level": 2500
+  },
+  {
+    "name": "Bison",
+    "lookType": 2013,
+    "level": 3400
+  },
+  {
+    "name": "Biting Book",
+    "lookType": 1066,
+    "level": 1850
+  },
+  {
+    "name": "Bjorn",
+    "lookType": 253,
+    "level": 2850
+  },
+  {
+    "name": "Black Knight",
+    "lookType": 131,
+    "level": 550
+  },
+  {
+    "name": "Black Sphinx Acolyte",
+    "lookType": 1240,
+    "level": 1450
+  },
+  {
+    "name": "Black Sphinx Leader",
+    "lookType": 1240,
+    "level": 1400
+  },
+  {
+    "name": "Blacktalon",
+    "lookType": 2227,
+    "level": 900
+  },
+  {
+    "name": "Blemished Spawn",
+    "lookType": 1680,
+    "level": 2050
+  },
+  {
+    "name": "Blightwalker",
+    "lookType": 246,
+    "level": 800
+  },
+  {
+    "name": "Blood Hand",
+    "lookType": 552,
+    "level": 575
+  },
+  {
+    "name": "Blood Priest",
+    "lookType": 553,
+    "level": 575
+  },
+  {
+    "name": "Bloodjaw",
+    "lookType": 2010,
+    "level": 3060
+  },
+  {
+    "name": "Bloodweb",
+    "lookType": 263,
+    "level": 2750
+  },
+  {
+    "name": "Bloody Raider",
+    "lookType": 1734,
+    "level": 1750
+  },
+  {
+    "name": "Bloody Slime",
+    "lookType": 1735,
+    "level": 1700
+  },
+  {
+    "name": "Blue Djinn",
+    "lookType": 80,
+    "level": 1100
+  },
+  {
+    "name": "Boar",
+    "lookType": 380,
+    "level": 1100
+  },
+  {
+    "name": "Bog Raider",
+    "lookType": 299,
+    "level": 255
+  },
+  {
+    "name": "Bone Totem",
+    "lookType": 0,
+    "level": 903
+  },
+  {
+    "name": "Bonebeast",
+    "lookType": 101,
+    "level": 701
+  },
+  {
+    "name": "Bonecrusher Ogre",
+    "lookType": 2177,
+    "level": 3080
+  },
+  {
+    "name": "Boneknapper",
+    "lookType": 1351,
+    "level": 3950
+  },
+  {
+    "name": "Bonelord",
+    "lookType": 17,
+    "level": 350
+  },
+  {
+    "name": "Bony Sea Devil",
+    "lookType": 1583,
+    "level": 2000
+  },
+  {
+    "name": "Boogey",
+    "lookType": 300,
+    "level": 1325
+  },
+  {
+    "name": "Boogy",
+    "lookType": 981,
+    "level": 350
+  },
+  {
+    "name": "Brachiodemon",
+    "lookType": 1330,
+    "level": 0
+  },
+  {
+    "name": "Braindeath",
+    "lookType": 256,
+    "level": 415
+  },
+  {
+    "name": "Branchy Crawler",
+    "lookType": 1586,
+    "level": 2250
+  },
+  {
+    "name": "Breach Brood",
+    "lookType": 878,
+    "level": 2200
+  },
+  {
+    "name": "Breathless Fear",
+    "lookType": 586,
+    "level": 0
+  },
+  {
+    "name": "Brimstone Bug",
+    "lookType": 352,
+    "level": 240
+  },
+  {
+    "name": "Brokul",
+    "lookType": 1076,
+    "level": 2750
+  },
+  {
+    "name": "Brook",
+    "lookType": 1261,
+    "level": 0
+  },
+  {
+    "name": "Brother Worm",
+    "lookType": 295,
+    "level": 730
+  },
+  {
+    "name": "Buckbeak",
+    "lookType": 1235,
+    "level": 1250
+  },
+  {
+    "name": "Bugs Bunny",
+    "lookType": 262,
+    "level": 600
+  },
+  {
+    "name": "Bulltaur",
+    "lookType": 2050,
+    "level": 3250
+  },
+  {
+    "name": "Burning Gladiator",
+    "lookType": 541,
+    "level": 1150
+  },
+  {
+    "name": "Calamary",
+    "lookType": 451,
+    "level": 100
+  },
+  {
+    "name": "Candied Behemoth",
+    "lookType": 2144,
+    "level": 3500
+  },
+  {
+    "name": "Candy Clown Calamity",
+    "lookType": 2127,
+    "level": 4500
+  },
+  {
+    "name": "Candy Floss Elemental",
+    "lookType": 2130,
+    "level": 3500
+  },
+  {
+    "name": "Candy Horror",
+    "lookType": 2127,
+    "level": 3500
+  },
+  {
+    "name": "Capricious Phantom",
+    "lookType": 1587,
+    "level": 2350
+  },
+  {
+    "name": "Captain Jack Sparrow",
+    "lookType": 151,
+    "level": 1360
+  },
+  {
+    "name": "Captain Jones",
+    "lookType": 98,
+    "level": 1470
+  },
+  {
+    "name": "Carniphila",
+    "lookType": 120,
+    "level": 100
+  },
+  {
+    "name": "Carrion Worm",
+    "lookType": 192,
+    "level": 15
+  },
+  {
+    "name": "Cave Chimera",
+    "lookType": 1683,
+    "level": 2000
+  },
+  {
+    "name": "Cave Devourer",
+    "lookType": 1036,
+    "level": 2000
+  },
+  {
+    "name": "Celestial Harbinger",
+    "lookType": 1354,
+    "level": 4200
+  },
+  {
+    "name": "Celestine Vanguard",
+    "lookType": 1915,
+    "level": 2500
+  },
+  {
+    "name": "Centaurus",
+    "lookType": 2051,
+    "level": 3650
+  },
+  {
+    "name": "Chagorz",
+    "lookType": 1990,
+    "level": 3850
+  },
+  {
+    "name": "Chakoya",
+    "lookType": 259,
+    "level": 2650
+  },
+  {
+    "name": "Cherub",
+    "lookType": 2145,
+    "level": 3400
+  },
+  {
+    "name": "Chillshade Horror",
+    "lookType": 2425,
+    "level": 0
+  },
+  {
+    "name": "Choking Fear",
+    "lookType": 586,
+    "level": 900
+  },
+  {
+    "name": "Chopper",
+    "lookType": 462,
+    "level": 0
+  },
+  {
+    "name": "Cliff Strider",
+    "lookType": 497,
+    "level": 0
+  },
+  {
+    "name": "Cloak of Terror",
+    "lookType": 1584,
+    "level": 2150
+  },
+  {
+    "name": "Clomp",
+    "lookType": 860,
+    "level": 1105
+  },
+  {
+    "name": "Cloudpunch Lobster",
+    "lookType": 2432,
+    "level": 0
+  },
+  {
+    "name": "Cloudtide Amphibian",
+    "lookType": 2433,
+    "level": 0
+  },
+  {
+    "name": "Coagulation",
+    "lookType": 1733,
+    "level": 0
+  },
+  {
+    "name": "Contained Blood",
+    "lookType": 1733,
+    "level": 1850
+  },
+  {
+    "name": "Coralcrusher Ravager",
+    "lookType": 2430,
+    "level": 0
+  },
+  {
+    "name": "Crab",
+    "lookType": 112,
+    "level": 700
+  },
+  {
+    "name": "Crawler",
+    "lookType": 456,
+    "level": 500
+  },
+  {
+    "name": "Crazed Winter Mage",
+    "lookType": 1137,
+    "level": 3010
+  },
+  {
+    "name": "Crazed Winter Rearguard",
+    "lookType": 1137,
+    "level": 3000
+  },
+  {
+    "name": "Crazed Winter Vanguard",
+    "lookType": 1137,
+    "level": 3015
+  },
+  {
+    "name": "Cream Blob",
+    "lookType": 2138,
+    "level": 0
+  },
+  {
+    "name": "Crimson Mage",
+    "lookType": 1298,
+    "level": 585
+  },
+  {
+    "name": "Crustacea Gigantica",
+    "lookType": 383,
+    "level": 200
+  },
+  {
+    "name": "Crustacean Brute",
+    "lookType": 2414,
+    "level": 0
+  },
+  {
+    "name": "Crying Lava",
+    "lookType": 489,
+    "level": 3600
+  },
+  {
+    "name": "Cryothal",
+    "lookType": 2426,
+    "level": 0
+  },
+  {
+    "name": "Crypt Shambler",
+    "lookType": 100,
+    "level": 700
+  },
+  {
+    "name": "Crystal Horse",
+    "lookType": 1866,
+    "level": 0
+  },
+  {
+    "name": "Crystal Spider",
+    "lookType": 263,
+    "level": 2700
+  },
+  {
+    "name": "Crystal Warden",
+    "lookType": 2187,
+    "level": 3500
+  },
+  {
+    "name": "Crystal Warlord",
+    "lookType": 512,
+    "level": 2600
+  },
+  {
+    "name": "Crystal Wolf",
+    "lookType": 391,
+    "level": 2600
+  },
+  {
+    "name": "Cthulhu",
+    "lookType": 0,
+    "level": 2005
+  },
+  {
+    "name": "Cult Leader",
+    "lookType": 1308,
+    "level": 2500
+  },
+  {
+    "name": "Cursed King",
+    "lookType": 1242,
+    "level": 2000
+  },
+  {
+    "name": "Cyclops",
+    "lookType": 22,
+    "level": 100
+  },
+  {
+    "name": "Cyclops Drone",
+    "lookType": 280,
+    "level": 105
+  },
+  {
+    "name": "Cyclops Smith",
+    "lookType": 277,
+    "level": 110
+  },
+  {
+    "name": "Darakan the Executioner",
+    "lookType": 255,
+    "level": 0
+  },
+  {
+    "name": "Dark Apprentice",
+    "lookType": 133,
+    "level": 600
+  },
+  {
+    "name": "Dark Carnisylvan",
+    "lookType": 1692,
+    "level": 2110
+  },
+  {
+    "name": "Dark Magician",
+    "lookType": 133,
+    "level": 595
+  },
+  {
+    "name": "Dark Monk",
+    "lookType": 225,
+    "level": 95
+  },
+  {
+    "name": "Dark Torturer",
+    "lookType": 234,
+    "level": 380
+  },
+  {
+    "name": "Dark Torturer Servant",
+    "lookType": 234,
+    "level": 465
+  },
+  {
+    "name": "Dark Wall",
+    "lookType": 0,
+    "level": 575
+  },
+  {
+    "name": "Dark Warlock",
+    "lookType": 130,
+    "level": 570
+  },
+  {
+    "name": "Darkfang Ravager",
+    "lookType": 2175,
+    "level": 3100
+  },
+  {
+    "name": "Darkfire Devourer",
+    "lookType": 1997,
+    "level": 1300
+  },
+  {
+    "name": "Darklight Source",
+    "lookType": 1980,
+    "level": 2500
+  },
+  {
+    "name": "Darktide Horror",
+    "lookType": 2419,
+    "level": 0
+  },
+  {
+    "name": "Dawnfire Asura",
+    "lookType": 150,
+    "level": 800
+  },
+  {
+    "name": "Deathbringer",
+    "lookType": 231,
+    "level": 0
+  },
+  {
+    "name": "Deathstrike",
+    "lookType": 500,
+    "level": 230
+  },
+  {
+    "name": "Deepling Guard",
+    "lookType": 442,
+    "level": 2800
+  },
+  {
+    "name": "Deepling Spellsinger",
+    "lookType": 443,
+    "level": 2700
+  },
+  {
+    "name": "Deepling Warrior",
+    "lookType": 441,
+    "level": 2600
+  },
+  {
+    "name": "Deepsea Angler",
+    "lookType": 2427,
+    "level": 0
+  },
+  {
+    "name": "Deepwalker Octopod",
+    "lookType": 2422,
+    "level": 0
+  },
+  {
+    "name": "Defiler Servant",
+    "lookType": 238,
+    "level": 450
+  },
+  {
+    "name": "Demodras",
+    "lookType": 204,
+    "level": 300
+  },
+  {
+    "name": "Demon",
+    "lookType": 35,
+    "level": 0
+  },
+  {
+    "name": "Demon Oak",
+    "lookType": 0,
+    "level": 704
+  },
+  {
+    "name": "Demon Outcast",
+    "lookType": 590,
+    "level": 1500
+  },
+  {
+    "name": "Demon Servant",
+    "lookType": 35,
+    "level": 480
+  },
+  {
+    "name": "Demon Skeleton",
+    "lookType": 37,
+    "level": 700
+  },
+  {
+    "name": "Depthswollen Aberration",
+    "lookType": 2429,
+    "level": 0
+  },
+  {
+    "name": "Destroyer",
+    "lookType": 236,
+    "level": 375
+  },
+  {
+    "name": "Devotee of Saruman",
+    "lookType": 1299,
+    "level": 1800
+  },
+  {
+    "name": "Dharalion",
+    "lookType": 203,
+    "level": 170
+  },
+  {
+    "name": "Dilrem",
+    "lookType": 1228,
+    "level": 1395
+  },
+  {
+    "name": "Disholok",
+    "lookType": 408,
+    "level": 585
+  },
+  {
+    "name": "Doctor Perhaps",
+    "lookType": 423,
+    "level": 465
+  },
+  {
+    "name": "Dragolisk",
+    "lookType": 2040,
+    "level": 2500
+  },
+  {
+    "name": "Dragon",
+    "lookType": 34,
+    "level": 130
+  },
+  {
+    "name": "Dragon Knight Aragorn",
+    "lookType": 1543,
+    "level": 600
+  },
+  {
+    "name": "Dragon Lord",
+    "lookType": 39,
+    "level": 285
+  },
+  {
+    "name": "Dragon Mother",
+    "lookType": 39,
+    "level": 0
+  },
+  {
+    "name": "Dragonfly",
+    "lookType": 528,
+    "level": 2501
+  },
+  {
+    "name": "Dragonking Zyrtarch",
+    "lookType": 938,
+    "level": 350
+  },
+  {
+    "name": "Dragonling",
+    "lookType": 505,
+    "level": 350
+  },
+  {
+    "name": "Draken Abomination",
+    "lookType": 357,
+    "level": 920
+  },
+  {
+    "name": "Draken Spellweaver",
+    "lookType": 340,
+    "level": 915
+  },
+  {
+    "name": "Draken Warmaster",
+    "lookType": 334,
+    "level": 910
+  },
+  {
+    "name": "Dread Intruder",
+    "lookType": 882,
+    "level": 2500
+  },
+  {
+    "name": "Dreadful Disruptor",
+    "lookType": 879,
+    "level": 2600
+  },
+  {
+    "name": "Drillworm",
+    "lookType": 527,
+    "level": 850
+  },
+  {
+    "name": "Drogon",
+    "lookType": 505,
+    "level": 350
+  },
+  {
+    "name": "Drowned Cleric",
+    "lookType": 2416,
+    "level": 0
+  },
+  {
+    "name": "Drowned Scout",
+    "lookType": 2149,
+    "level": 3400
+  },
+  {
+    "name": "Duke Krule",
+    "lookType": 1261,
+    "level": 400
+  },
+  {
+    "name": "Dwarf",
+    "lookType": 69,
+    "level": 20
+  },
+  {
+    "name": "Dwarf Geomancer",
+    "lookType": 66,
+    "level": 116
+  },
+  {
+    "name": "Dwarf Guard",
+    "lookType": 70,
+    "level": 30
+  },
+  {
+    "name": "Dwarf Soldier",
+    "lookType": 71,
+    "level": 25
+  },
+  {
+    "name": "Earth Claw",
+    "lookType": 346,
+    "level": 1150
+  },
+  {
+    "name": "Echo of Chagorz",
+    "lookType": 1990,
+    "level": 3350
+  },
+  {
+    "name": "Edrahil",
+    "lookType": 203,
+    "level": 0
+  },
+  {
+    "name": "Efreet",
+    "lookType": 103,
+    "level": 1050
+  },
+  {
+    "name": "Elder Beholder",
+    "lookType": 108,
+    "level": 850
+  },
+  {
+    "name": "Elder Forest Fury",
+    "lookType": 569,
+    "level": 220
+  },
+  {
+    "name": "Elder Mummy",
+    "lookType": 65,
+    "level": 700
+  },
+  {
+    "name": "Elder Wyrm",
+    "lookType": 561,
+    "level": 300
+  },
+  {
+    "name": "Elf",
+    "lookType": 62,
+    "level": 150
+  },
+  {
+    "name": "Elf Arcanist",
+    "lookType": 63,
+    "level": 160
+  },
+  {
+    "name": "Elf Scout",
+    "lookType": 64,
+    "level": 155
+  },
+  {
+    "name": "Elven Tree",
+    "lookType": 0,
+    "level": 165
+  },
+  {
+    "name": "Emberwing",
+    "lookType": 992,
+    "level": 350
+  },
+  {
+    "name": "Emerald Damselfly",
+    "lookType": 528,
+    "level": 2500
+  },
+  {
+    "name": "Energized Cult Leader",
+    "lookType": 1307,
+    "level": 2500
+  },
+  {
+    "name": "Energized Raging Mage",
+    "lookType": 423,
+    "level": 455
+  },
+  {
+    "name": "Enlightened of the Cult",
+    "lookType": 193,
+    "level": 608
+  },
+  {
+    "name": "Enraged Azerus",
+    "lookType": 309,
+    "level": 0
+  },
+  {
+    "name": "Enraged Hemo Rage",
+    "lookType": 1733,
+    "level": 0
+  },
+  {
+    "name": "Enraged Mecha Hobgoblin",
+    "lookType": 881,
+    "level": 2510
+  },
+  {
+    "name": "Enraged Tamed Dragon Lord",
+    "lookType": 39,
+    "level": 0
+  },
+  {
+    "name": "Enslaved Dwarf",
+    "lookType": 494,
+    "level": 125
+  },
+  {
+    "name": "Enusat the Onyx WIng",
+    "lookType": 1233,
+    "level": 0
+  },
+  {
+    "name": "Eradicator",
+    "lookType": 875,
+    "level": 3100
+  },
+  {
+    "name": "Erupturtle",
+    "lookType": 2033,
+    "level": 3600
+  },
+  {
+    "name": "Eternal Guardian",
+    "lookType": 345,
+    "level": 435
+  },
+  {
+    "name": "Ethereal Overlord",
+    "lookType": 2201,
+    "level": 3200
+  },
+  {
+    "name": "Ethershreck",
+    "lookType": 351,
+    "level": 950
+  },
+  {
+    "name": "Evil Mastermind",
+    "lookType": 256,
+    "level": 785
+  },
+  {
+    "name": "Execowtioner",
+    "lookType": 609,
+    "level": 773
+  },
+  {
+    "name": "Eye of Saruman",
+    "lookType": 583,
+    "level": 1650
+  },
+  {
+    "name": "Eyeless Devourer",
+    "lookType": 1679,
+    "level": 2200
+  },
+  {
+    "name": "Fahim the Wise",
+    "lookType": 80,
+    "level": 0
+  },
+  {
+    "name": "Falcon Knight",
+    "lookType": 1071,
+    "level": 2750
+  },
+  {
+    "name": "Fallen Angel",
+    "lookType": 1535,
+    "level": 350
+  },
+  {
+    "name": "Fallen Mooh'tah Master Ghar",
+    "lookType": 29,
+    "level": 0
+  },
+  {
+    "name": "Fazzrah",
+    "lookType": 343,
+    "level": 350
+  },
+  {
+    "name": "Feroxa",
+    "lookType": 158,
+    "level": 2500
+  },
+  {
+    "name": "Ferumbras",
+    "lookType": 229,
+    "level": 0
+  },
+  {
+    "name": "Fimbrethil",
+    "lookType": 488,
+    "level": 215
+  },
+  {
+    "name": "Fire Elemental",
+    "lookType": 49,
+    "level": 3600
+  },
+  {
+    "name": "Fire Wraith",
+    "lookType": 1428,
+    "level": 0
+  },
+  {
+    "name": "Flaming Hornshell",
+    "lookType": 2015,
+    "level": 3900
+  },
+  {
+    "name": "Fleabringer",
+    "lookType": 515,
+    "level": 1200
+  },
+  {
+    "name": "Fleshcrawler",
+    "lookType": 79,
+    "level": 750
+  },
+  {
+    "name": "Forest Fury",
+    "lookType": 569,
+    "level": 225
+  },
+  {
+    "name": "Frazzlemaw",
+    "lookType": 594,
+    "level": 1550
+  },
+  {
+    "name": "Freegoiz",
+    "lookType": 110,
+    "level": 2950
+  },
+  {
+    "name": "Freylith",
+    "lookType": 2151,
+    "level": 3100
+  },
+  {
+    "name": "Frigus",
+    "lookType": 1853,
+    "level": 2500
+  },
+  {
+    "name": "Frost Dragon",
+    "lookType": 248,
+    "level": 3000
+  },
+  {
+    "name": "Frost Giant",
+    "lookType": 257,
+    "level": 2600
+  },
+  {
+    "name": "Frost Giantess",
+    "lookType": 265,
+    "level": 2550
+  },
+  {
+    "name": "Frost Troll",
+    "lookType": 53,
+    "level": 2510
+  },
+  {
+    "name": "Frostborn Dragon",
+    "lookType": 248,
+    "level": 3200
+  },
+  {
+    "name": "Frostbreaker Ogre",
+    "lookType": 2178,
+    "level": 3090
+  },
+  {
+    "name": "Frostgremlin",
+    "lookType": 1167,
+    "level": 0
+  },
+  {
+    "name": "Frosthorn",
+    "lookType": 1225,
+    "level": 3500
+  },
+  {
+    "name": "Frostvein Sanctuary Protector",
+    "lookType": 103,
+    "level": 0
+  },
+  {
+    "name": "Frostwing Seraph",
+    "lookType": 1354,
+    "level": 3500
+  },
+  {
+    "name": "Frosty Angel",
+    "lookType": 1303,
+    "level": 3100
+  },
+  {
+    "name": "Fruit Drop",
+    "lookType": 2135,
+    "level": 0
+  },
+  {
+    "name": "Fugo",
+    "lookType": 1319,
+    "level": 1805
+  },
+  {
+    "name": "Fury Servant",
+    "lookType": 149,
+    "level": 490
+  },
+  {
+    "name": "Gabiru",
+    "lookType": 114,
+    "level": 260
+  },
+  {
+    "name": "Gadabout",
+    "lookType": 146,
+    "level": 715
+  },
+  {
+    "name": "Gaia",
+    "lookType": 2150,
+    "level": 3600
+  },
+  {
+    "name": "Gamabunta",
+    "lookType": 1940,
+    "level": 2500
+  },
+  {
+    "name": "Gaz'haragoth",
+    "lookType": 591,
+    "level": 0
+  },
+  {
+    "name": "Gazer Spectre",
+    "lookType": 1119,
+    "level": 350
+  },
+  {
+    "name": "General Murius",
+    "lookType": 611,
+    "level": 775
+  },
+  {
+    "name": "Ghastly Dragon",
+    "lookType": 351,
+    "level": 950
+  },
+  {
+    "name": "Ghazbaran",
+    "lookType": 12,
+    "level": 1115
+  },
+  {
+    "name": "Ghoul",
+    "lookType": 18,
+    "level": 25
+  },
+  {
+    "name": "Ghoulish Hyaena",
+    "lookType": 94,
+    "level": 1000
+  },
+  {
+    "name": "Giant Spider",
+    "lookType": 38,
+    "level": 150
+  },
+  {
+    "name": "Gigaclops",
+    "lookType": 1838,
+    "level": 350
+  },
+  {
+    "name": "Gilded Mummy",
+    "lookType": 544,
+    "level": 700
+  },
+  {
+    "name": "Gingerbread Man",
+    "lookType": 2126,
+    "level": 3090
+  },
+  {
+    "name": "Gingy",
+    "lookType": 2262,
+    "level": 3100
+  },
+  {
+    "name": "Girtablilu Warrior",
+    "lookType": 1684,
+    "level": 750
+  },
+  {
+    "name": "Glacewisp",
+    "lookType": 2424,
+    "level": 0
+  },
+  {
+    "name": "Glacial Juggernaut",
+    "lookType": 1225,
+    "level": 4150
+  },
+  {
+    "name": "Glacial Tideguard",
+    "lookType": 2426,
+    "level": 0
+  },
+  {
+    "name": "Glacial Wraith",
+    "lookType": 2107,
+    "level": 2800
+  },
+  {
+    "name": "Glazer",
+    "lookType": 2128,
+    "level": 3000
+  },
+  {
+    "name": "Gloamreef Devourer",
+    "lookType": 2420,
+    "level": 0
+  },
+  {
+    "name": "Gloomstalker",
+    "lookType": 2175,
+    "level": 2100
+  },
+  {
+    "name": "Glooth Bandit",
+    "lookType": 129,
+    "level": 300
+  },
+  {
+    "name": "Glooth Blob",
+    "lookType": 614,
+    "level": 315
+  },
+  {
+    "name": "Glooth Horror",
+    "lookType": 677,
+    "level": 2100
+  },
+  {
+    "name": "Glowfin Salamander",
+    "lookType": 2412,
+    "level": 0
+  },
+  {
+    "name": "Gnarlhound",
+    "lookType": 341,
+    "level": 1150
+  },
+  {
+    "name": "Gnorre Chyllson",
+    "lookType": 251,
+    "level": 0
+  },
+  {
+    "name": "Goggle Cake",
+    "lookType": 2128,
+    "level": 3400
+  },
+  {
+    "name": "Goliath",
+    "lookType": 1886,
+    "level": 2500
+  },
+  {
+    "name": "Gorerilla",
+    "lookType": 1819,
+    "level": 350
+  },
+  {
+    "name": "Gorgo",
+    "lookType": 330,
+    "level": 420
+  },
+  {
+    "name": "Goshnar's Cruelty",
+    "lookType": 1591,
+    "level": 2120
+  },
+  {
+    "name": "Grand Master Oberon",
+    "lookType": 1072,
+    "level": 2800
+  },
+  {
+    "name": "Gravedigger",
+    "lookType": 558,
+    "level": 1400
+  },
+  {
+    "name": "Greed Worm",
+    "lookType": 1955,
+    "level": 0
+  },
+  {
+    "name": "Green Djinn",
+    "lookType": 51,
+    "level": 1100
+  },
+  {
+    "name": "Green Frog",
+    "lookType": 224,
+    "level": 0
+  },
+  {
+    "name": "Grim Reaper",
+    "lookType": 300,
+    "level": 1300
+  },
+  {
+    "name": "Grimeleech",
+    "lookType": 855,
+    "level": 3500
+  },
+  {
+    "name": "Grinch",
+    "lookType": 2216,
+    "level": 0
+  },
+  {
+    "name": "Gryphon",
+    "lookType": 1235,
+    "level": 1200
+  },
+  {
+    "name": "Gummy Globule",
+    "lookType": 2144,
+    "level": 4500
+  },
+  {
+    "name": "Guzzlemaw",
+    "lookType": 584,
+    "level": 1550
+  },
+  {
+    "name": "Halfdan",
+    "lookType": 143,
+    "level": 2900
+  },
+  {
+    "name": "Hallowed Sentinel",
+    "lookType": 2158,
+    "level": 2500
+  },
+  {
+    "name": "Hand of Cursed Fate",
+    "lookType": 230,
+    "level": 385
+  },
+  {
+    "name": "Handerson",
+    "lookType": 558,
+    "level": 1350
+  },
+  {
+    "name": "Harmful Branches",
+    "lookType": 1586,
+    "level": 2300
+  },
+  {
+    "name": "Haunted Skeleton",
+    "lookType": 1592,
+    "level": 3400
+  },
+  {
+    "name": "Haunted Treeling",
+    "lookType": 310,
+    "level": 703
+  },
+  {
+    "name": "Headwalker",
+    "lookType": 2272,
+    "level": 2100
+  },
+  {
+    "name": "Heavens Blade",
+    "lookType": 2185,
+    "level": 4500
+  },
+  {
+    "name": "Hellfire Fighter",
+    "lookType": 243,
+    "level": 3750
+  },
+  {
+    "name": "Hellgorak",
+    "lookType": 1226,
+    "level": 1400
+  },
+  {
+    "name": "Hellhound Servant",
+    "lookType": 240,
+    "level": 485
+  },
+  {
+    "name": "Hellish Phantasm",
+    "lookType": 1324,
+    "level": 2500
+  },
+  {
+    "name": "Hells Core Mage",
+    "lookType": 1300,
+    "level": 900
+  },
+  {
+    "name": "Hells Core Warrior",
+    "lookType": 1301,
+    "level": 905
+  },
+  {
+    "name": "Helltide Hare",
+    "lookType": 2428,
+    "level": 0
+  },
+  {
+    "name": "Hemo Rage",
+    "lookType": 1733,
+    "level": 1800
+  },
+  {
+    "name": "Hero",
+    "lookType": 73,
+    "level": 245
+  },
+  {
+    "name": "Heroic Dragon Knight Aragorn",
+    "lookType": 1543,
+    "level": 700
+  },
+  {
+    "name": "Hideous Fungus",
+    "lookType": 499,
+    "level": 205
+  },
+  {
+    "name": "Hirintror",
+    "lookType": 261,
+    "level": 2900
+  },
+  {
+    "name": "Horned Heavy Knight",
+    "lookType": 2148,
+    "level": 3600
+  },
+  {
+    "name": "Horny Spine",
+    "lookType": 1594,
+    "level": 0
+  },
+  {
+    "name": "Horrorsnare",
+    "lookType": 300,
+    "level": 1350
+  },
+  {
+    "name": "Hotheaded Monolith",
+    "lookType": 1976,
+    "level": 3600
+  },
+  {
+    "name": "Hulking Prehemoth",
+    "lookType": 1813,
+    "level": 350
+  },
+  {
+    "name": "Humongous Fungus",
+    "lookType": 488,
+    "level": 225
+  },
+  {
+    "name": "Humorless Fungus",
+    "lookType": 517,
+    "level": 200
+  },
+  {
+    "name": "Hunger Worm",
+    "lookType": 295,
+    "level": 0
+  },
+  {
+    "name": "Hunter",
+    "lookType": 129,
+    "level": 900
+  },
+  {
+    "name": "Hyaena",
+    "lookType": 94,
+    "level": 1000
+  },
+  {
+    "name": "Hydra",
+    "lookType": 121,
+    "level": 355
+  },
+  {
+    "name": "Ice Cube",
+    "lookType": 2134,
+    "level": 4500
+  },
+  {
+    "name": "Ice Golem",
+    "lookType": 261,
+    "level": 2800
+  },
+  {
+    "name": "Ice Witch",
+    "lookType": 149,
+    "level": 2900
+  },
+  {
+    "name": "Ice Wraith",
+    "lookType": 1427,
+    "level": 0
+  },
+  {
+    "name": "Icecold Book",
+    "lookType": 1061,
+    "level": 3050
+  },
+  {
+    "name": "Infected Weeper",
+    "lookType": 489,
+    "level": 3200
+  },
+  {
+    "name": "Inquisitor Cursed Prospector",
+    "lookType": 1285,
+    "level": 1385
+  },
+  {
+    "name": "Inquisitor Dark Torturer",
+    "lookType": 234,
+    "level": 1375
+  },
+  {
+    "name": "Inquisitor Juggernaut",
+    "lookType": 244,
+    "level": 1390
+  },
+  {
+    "name": "Inquisitor Lost Soul",
+    "lookType": 232,
+    "level": 1370
+  },
+  {
+    "name": "Inquisitor Massive Fire Elemental",
+    "lookType": 242,
+    "level": 1350
+  },
+  {
+    "name": "Inquisitor Phantasm",
+    "lookType": 241,
+    "level": 1360
+  },
+  {
+    "name": "Inquisitor Plaguesmith",
+    "lookType": 247,
+    "level": 1380
+  },
+  {
+    "name": "Inquisitor Raging Fire",
+    "lookType": 1152,
+    "level": 1365
+  },
+  {
+    "name": "Inquisitor Undead Dragon",
+    "lookType": 1228,
+    "level": 1355
+  },
+  {
+    "name": "Insatiable Horror",
+    "lookType": 588,
+    "level": 1475
+  },
+  {
+    "name": "Insectoid Worker",
+    "lookType": 403,
+    "level": 350
+  },
+  {
+    "name": "Isfaril",
+    "lookType": 1303,
+    "level": 3400
+  },
+  {
+    "name": "Ishim",
+    "lookType": 1303,
+    "level": 3500
+  },
+  {
+    "name": "Izcandar the Banished",
+    "lookType": 1137,
+    "level": 3020
+  },
+  {
+    "name": "Jaul",
+    "lookType": 444,
+    "level": 1500
+  },
+  {
+    "name": "Jellyfish",
+    "lookType": 452,
+    "level": 150
+  },
+  {
+    "name": "Juggernaut Servant",
+    "lookType": 244,
+    "level": 500
+  },
+  {
+    "name": "Kelpbound Colossus",
+    "lookType": 2435,
+    "level": 0
+  },
+  {
+    "name": "King Tutankhamun",
+    "lookType": 87,
+    "level": 905
+  },
+  {
+    "name": "King Zelos",
+    "lookType": 1264,
+    "level": 590
+  },
+  {
+    "name": "King of Girtablilu",
+    "lookType": 1684,
+    "level": 752
+  },
+  {
+    "name": "Koldskale",
+    "lookType": 2157,
+    "level": 3900
+  },
+  {
+    "name": "Kollos",
+    "lookType": 458,
+    "level": 350
+  },
+  {
+    "name": "Kongra",
+    "lookType": 116,
+    "level": 80
+  },
+  {
+    "name": "Koshei the Deathless",
+    "lookType": 99,
+    "level": 609
+  },
+  {
+    "name": "Krusty Krab",
+    "lookType": 1045,
+    "level": 2600
+  },
+  {
+    "name": "Lacewing Moth",
+    "lookType": 1148,
+    "level": 2550
+  },
+  {
+    "name": "Lagatos",
+    "lookType": 241,
+    "level": 2500
+  },
+  {
+    "name": "Lancer Beetle",
+    "lookType": 348,
+    "level": 350
+  },
+  {
+    "name": "Lavafungus",
+    "lookType": 1682,
+    "level": 3070
+  },
+  {
+    "name": "Leg Grabber",
+    "lookType": 1592,
+    "level": 3000
+  },
+  {
+    "name": "Leviathan",
+    "lookType": 275,
+    "level": 550
+  },
+  {
+    "name": "Librarian",
+    "lookType": 1067,
+    "level": 3250
+  },
+  {
+    "name": "Light Sentinel",
+    "lookType": 2103,
+    "level": 0
+  },
+  {
+    "name": "Lizard Chosen",
+    "lookType": 344,
+    "level": 435
+  },
+  {
+    "name": "Lizard Dragon Priest",
+    "lookType": 339,
+    "level": 250
+  },
+  {
+    "name": "Lizard Legionnaire",
+    "lookType": 338,
+    "level": 325
+  },
+  {
+    "name": "Lizard Noble",
+    "lookType": 115,
+    "level": 340
+  },
+  {
+    "name": "Lizard Sentinel",
+    "lookType": 114,
+    "level": 255
+  },
+  {
+    "name": "Lizardman",
+    "lookType": 1435,
+    "level": 2500
+  },
+  {
+    "name": "Lloyd",
+    "lookType": 940,
+    "level": 130
+  },
+  {
+    "name": "Lord Azureth",
+    "lookType": 2188,
+    "level": 2500
+  },
+  {
+    "name": "Lord of the Horror",
+    "lookType": 1997,
+    "level": 1300
+  },
+  {
+    "name": "Lost Basher",
+    "lookType": 538,
+    "level": 100
+  },
+  {
+    "name": "Lost Berserker",
+    "lookType": 496,
+    "level": 105
+  },
+  {
+    "name": "Lost Soul Servant",
+    "lookType": 232,
+    "level": 460
+  },
+  {
+    "name": "Lucifer",
+    "lookType": 2197,
+    "level": 2005
+  },
+  {
+    "name": "Lucius Shadowbane",
+    "lookType": 2103,
+    "level": 3600
+  },
+  {
+    "name": "Luminaris Peacekeeper",
+    "lookType": 103,
+    "level": 0
+  },
+  {
+    "name": "Lythos",
+    "lookType": 326,
+    "level": 3100
+  },
+  {
+    "name": "Mad Mage",
+    "lookType": 394,
+    "level": 450
+  },
+  {
+    "name": "Malofur Mangrinder",
+    "lookType": 1120,
+    "level": 1560
+  },
+  {
+    "name": "Mamma Longlegs",
+    "lookType": 38,
+    "level": 0
+  },
+  {
+    "name": "Manta Ray",
+    "lookType": 449,
+    "level": 1000
+  },
+  {
+    "name": "Mantosaurus",
+    "lookType": 1816,
+    "level": 2250
+  },
+  {
+    "name": "Many Faces",
+    "lookType": 1585,
+    "level": 2500
+  },
+  {
+    "name": "Marin",
+    "lookType": 1942,
+    "level": 3000
+  },
+  {
+    "name": "Massacre",
+    "lookType": 244,
+    "level": 525
+  },
+  {
+    "name": "Massive Earth Elemental",
+    "lookType": 285,
+    "level": 500
+  },
+  {
+    "name": "Massive Water Elemental",
+    "lookType": 11,
+    "level": 2000
+  },
+  {
+    "name": "Mawhawk",
+    "lookType": 595,
+    "level": 1650
+  },
+  {
+    "name": "Mearidion",
+    "lookType": 1697,
+    "level": 2105
+  },
+  {
+    "name": "Mecha Hobgoblin",
+    "lookType": 881,
+    "level": 2510
+  },
+  {
+    "name": "Medusa",
+    "lookType": 330,
+    "level": 450
+  },
+  {
+    "name": "Megalesius",
+    "lookType": 1601,
+    "level": 2500
+  },
+  {
+    "name": "Megalomania",
+    "lookType": 1338,
+    "level": 2400
+  },
+  {
+    "name": "Menstruation",
+    "lookType": 553,
+    "level": 575
+  },
+  {
+    "name": "Mephisto",
+    "lookType": 1300,
+    "level": 910
+  },
+  {
+    "name": "Mercurial Menace",
+    "lookType": 1821,
+    "level": 350
+  },
+  {
+    "name": "Merikh the Slaughterer",
+    "lookType": 103,
+    "level": 0
+  },
+  {
+    "name": "Merlion",
+    "lookType": 1304,
+    "level": 2500
+  },
+  {
+    "name": "Metal Gargoyle",
+    "lookType": 601,
+    "level": 325
+  },
+  {
+    "name": "Midnight Asura",
+    "lookType": 150,
+    "level": 801
+  },
+  {
+    "name": "Minion of Gaz'haragoth",
+    "lookType": 590,
+    "level": 0
+  },
+  {
+    "name": "Minor Sugar Crave",
+    "lookType": 2137,
+    "level": 3600
+  },
+  {
+    "name": "Minotaur",
+    "lookType": 25,
+    "level": 35
+  },
+  {
+    "name": "Minotaur Amazon",
+    "lookType": 608,
+    "level": 770
+  },
+  {
+    "name": "Minotaur Guard",
+    "lookType": 29,
+    "level": 50
+  },
+  {
+    "name": "Minotaur Idol",
+    "lookType": 1011,
+    "level": 2500
+  },
+  {
+    "name": "Misguided Shadow",
+    "lookType": 985,
+    "level": 3010
+  },
+  {
+    "name": "Monopspike",
+    "lookType": 2183,
+    "level": 3900
+  },
+  {
+    "name": "Mooh'Tah Warrior",
+    "lookType": 611,
+    "level": 771
+  },
+  {
+    "name": "Moohtant",
+    "lookType": 607,
+    "level": 772
+  },
+  {
+    "name": "Morguthis",
+    "lookType": 90,
+    "level": 710
+  },
+  {
+    "name": "Morning Star",
+    "lookType": 2091,
+    "level": 2000
+  },
+  {
+    "name": "Moss Guardian",
+    "lookType": 1902,
+    "level": 2800
+  },
+  {
+    "name": "Mossmasher",
+    "lookType": 1607,
+    "level": 0
+  },
+  {
+    "name": "Mr. Punish",
+    "lookType": 234,
+    "level": 510
+  },
+  {
+    "name": "Mummy",
+    "lookType": 65,
+    "level": 700
+  },
+  {
+    "name": "Murmilion",
+    "lookType": 1694,
+    "level": 2115
+  },
+  {
+    "name": "Must Play Tree",
+    "lookType": 2173,
+    "level": 3900
+  },
+  {
+    "name": "Mutated Bat",
+    "lookType": 307,
+    "level": 195
+  },
+  {
+    "name": "Mutated Human",
+    "lookType": 323,
+    "level": 375
+  },
+  {
+    "name": "Naga Warrior",
+    "lookType": 1801,
+    "level": 2650
+  },
+  {
+    "name": "Nastirh",
+    "lookType": 2012,
+    "level": 3075
+  },
+  {
+    "name": "Nazgul",
+    "lookType": 1299,
+    "level": 1800
+  },
+  {
+    "name": "Necropharus",
+    "lookType": 99,
+    "level": 520
+  },
+  {
+    "name": "Nibblemaw",
+    "lookType": 2125,
+    "level": 3900
+  },
+  {
+    "name": "Night King",
+    "lookType": 1839,
+    "level": 2855
+  },
+  {
+    "name": "Nightbane",
+    "lookType": 1351,
+    "level": 3450
+  },
+  {
+    "name": "Nightclaw",
+    "lookType": 3,
+    "level": 0
+  },
+  {
+    "name": "Nightdweller",
+    "lookType": 849,
+    "level": 3000
+  },
+  {
+    "name": "Nightmare",
+    "lookType": 245,
+    "level": 900
+  },
+  {
+    "name": "Nightmare Scion",
+    "lookType": 321,
+    "level": 900
+  },
+  {
+    "name": "Nightmare Servant",
+    "lookType": 245,
+    "level": 470
+  },
+  {
+    "name": "Nightmare of Gaz'haragoth",
+    "lookType": 587,
+    "level": 0
+  },
+  {
+    "name": "Nightstalker",
+    "lookType": 320,
+    "level": 607
+  },
+  {
+    "name": "Nomad",
+    "lookType": 146,
+    "level": 750
+  },
+  {
+    "name": "Noodlehead",
+    "lookType": 981,
+    "level": 2200
+  },
+  {
+    "name": "Norgle Glacierbeard",
+    "lookType": 251,
+    "level": 0
+  },
+  {
+    "name": "Nyxathor",
+    "lookType": 2421,
+    "level": 0
+  },
+  {
+    "name": "Obujos",
+    "lookType": 445,
+    "level": 2900
+  },
+  {
+    "name": "Ocyakao",
+    "lookType": 259,
+    "level": 2700
+  },
+  {
+    "name": "Ogre Brute",
+    "lookType": 857,
+    "level": 1100
+  },
+  {
+    "name": "Ogre Rowdy",
+    "lookType": 1708,
+    "level": 1550
+  },
+  {
+    "name": "Ogre Sage",
+    "lookType": 1709,
+    "level": 1555
+  },
+  {
+    "name": "Ogre Savage",
+    "lookType": 858,
+    "level": 1105
+  },
+  {
+    "name": "Ogre Shaman",
+    "lookType": 859,
+    "level": 1110
+  },
+  {
+    "name": "Olaf",
+    "lookType": 1159,
+    "level": 2500
+  },
+  {
+    "name": "Orb Weaver",
+    "lookType": 1529,
+    "level": 3300
+  },
+  {
+    "name": "Orc",
+    "lookType": 5,
+    "level": 20
+  },
+  {
+    "name": "Orc Berserker",
+    "lookType": 8,
+    "level": 30
+  },
+  {
+    "name": "Orc Leader",
+    "lookType": 59,
+    "level": 40
+  },
+  {
+    "name": "Orc Rider",
+    "lookType": 4,
+    "level": 30
+  },
+  {
+    "name": "Orc Shaman",
+    "lookType": 6,
+    "level": 25
+  },
+  {
+    "name": "Orc Warlord",
+    "lookType": 2,
+    "level": 50
+  },
+  {
+    "name": "Orclops Doomhauler",
+    "lookType": 934,
+    "level": 602
+  },
+  {
+    "name": "Orclops Ravager",
+    "lookType": 935,
+    "level": 603
+  },
+  {
+    "name": "Orshabaal",
+    "lookType": 201,
+    "level": 515
+  },
+  {
+    "name": "Outer Deep Fiend",
+    "lookType": 2431,
+    "level": 0
+  },
+  {
+    "name": "Phantasm Servant",
+    "lookType": 241,
+    "level": 475
+  },
+  {
+    "name": "Pirate Corsair",
+    "lookType": 98,
+    "level": 1455
+  },
+  {
+    "name": "Pirate Cutthroat",
+    "lookType": 96,
+    "level": 1350
+  },
+  {
+    "name": "Pirate Ghost",
+    "lookType": 196,
+    "level": 1460
+  },
+  {
+    "name": "Pirate Marauder",
+    "lookType": 93,
+    "level": 1450
+  },
+  {
+    "name": "Pirate Skeleton",
+    "lookType": 195,
+    "level": 1465
+  },
+  {
+    "name": "Plagueroot",
+    "lookType": 1121,
+    "level": 245
+  },
+  {
+    "name": "Plaguesmith Servant",
+    "lookType": 247,
+    "level": 455
+  },
+  {
+    "name": "Poltergeist",
+    "lookType": 1290,
+    "level": 902
+  },
+  {
+    "name": "Poor Soul",
+    "lookType": 1585,
+    "level": 2400
+  },
+  {
+    "name": "Prism Shardlord",
+    "lookType": 2187,
+    "level": 4450
+  },
+  {
+    "name": "Professor Maxxen",
+    "lookType": 679,
+    "level": 335
+  },
+  {
+    "name": "Puke Horror",
+    "lookType": 588,
+    "level": 1500
+  },
+  {
+    "name": "Pumpkinhead",
+    "lookType": 1851,
+    "level": 0
+  },
+  {
+    "name": "Purple Haze",
+    "lookType": 1319,
+    "level": 1800
+  },
+  {
+    "name": "Quara Pincher",
+    "lookType": 77,
+    "level": 1350
+  },
+  {
+    "name": "Quiller",
+    "lookType": 1058,
+    "level": 3300
+  },
+  {
+    "name": "Rage Squid",
+    "lookType": 1059,
+    "level": 2800
+  },
+  {
+    "name": "Rahemos",
+    "lookType": 87,
+    "level": 0
+  },
+  {
+    "name": "Reaper",
+    "lookType": 1288,
+    "level": 0
+  },
+  {
+    "name": "Reaper Ghost",
+    "lookType": 1288,
+    "level": 0
+  },
+  {
+    "name": "Reklaw",
+    "lookType": 246,
+    "level": 800
+  },
+  {
+    "name": "Renegade Knight",
+    "lookType": 268,
+    "level": 601
+  },
+  {
+    "name": "Renegated Angel",
+    "lookType": 1535,
+    "level": 3500
+  },
+  {
+    "name": "Retching Horror",
+    "lookType": 588,
+    "level": 1450
+  },
+  {
+    "name": "Rhindeer",
+    "lookType": 1927,
+    "level": 3200
+  },
+  {
+    "name": "Rift Brood",
+    "lookType": 290,
+    "level": 0
+  },
+  {
+    "name": "Rift Lord",
+    "lookType": 12,
+    "level": 0
+  },
+  {
+    "name": "Rift Scythe",
+    "lookType": 300,
+    "level": 0
+  },
+  {
+    "name": "Rift Worm",
+    "lookType": 295,
+    "level": 0
+  },
+  {
+    "name": "Rimuru",
+    "lookType": 1942,
+    "level": 3000
+  },
+  {
+    "name": "Ripper",
+    "lookType": 588,
+    "level": 1480
+  },
+  {
+    "name": "Robby the Reckless",
+    "lookType": 129,
+    "level": 200
+  },
+  {
+    "name": "Rootthing Amber Shaper",
+    "lookType": 2142,
+    "level": 3090
+  },
+  {
+    "name": "Rootthing Bug Tracker",
+    "lookType": 2143,
+    "level": 3090
+  },
+  {
+    "name": "Rootthing Nutshell",
+    "lookType": 2141,
+    "level": 3080
+  },
+  {
+    "name": "Rorc",
+    "lookType": 550,
+    "level": 180
+  },
+  {
+    "name": "Rotten Golem",
+    "lookType": 1600,
+    "level": 2000
+  },
+  {
+    "name": "Rotten Man Maggot",
+    "lookType": 1975,
+    "level": 3050
+  },
+  {
+    "name": "Rotworm",
+    "lookType": 26,
+    "level": 10
+  },
+  {
+    "name": "Rotworm Queen",
+    "lookType": 295,
+    "level": 750
+  },
+  {
+    "name": "Rukor Zad",
+    "lookType": 152,
+    "level": 905
+  },
+  {
+    "name": "Rupture",
+    "lookType": 875,
+    "level": 3000
+  },
+  {
+    "name": "Ruthless Grandmaster",
+    "lookType": 268,
+    "level": 560
+  },
+  {
+    "name": "Ruthless Necromancer",
+    "lookType": 9,
+    "level": 565
+  },
+  {
+    "name": "Sandscourge",
+    "lookType": 1609,
+    "level": 350
+  },
+  {
+    "name": "Sandstone Scorpion",
+    "lookType": 398,
+    "level": 1150
+  },
+  {
+    "name": "Saphira",
+    "lookType": 1850,
+    "level": 2500
+  },
+  {
+    "name": "Sargeant Bullsteel",
+    "lookType": 2148,
+    "level": 3600
+  },
+  {
+    "name": "Saruman",
+    "lookType": 1525,
+    "level": 1800
+  },
+  {
+    "name": "Scarab",
+    "lookType": 83,
+    "level": 800
+  },
+  {
+    "name": "Sea Serpent",
+    "lookType": 275,
+    "level": 550
+  },
+  {
+    "name": "Serpent Spawn",
+    "lookType": 220,
+    "level": 415
+  },
+  {
+    "name": "Shadow Demon",
+    "lookType": 1314,
+    "level": 580
+  },
+  {
+    "name": "Shadow Pupil",
+    "lookType": 551,
+    "level": 555
+  },
+  {
+    "name": "Shadow Weaver",
+    "lookType": 2190,
+    "level": 3000
+  },
+  {
+    "name": "Shadow of Gluttony",
+    "lookType": 2130,
+    "level": 2000
+  },
+  {
+    "name": "Shadow of Saruman",
+    "lookType": 300,
+    "level": 0
+  },
+  {
+    "name": "Shadow of Sloth",
+    "lookType": 1048,
+    "level": 2000
+  },
+  {
+    "name": "Shadow of Wrath",
+    "lookType": 2108,
+    "level": 2000
+  },
+  {
+    "name": "Shadowborn Eel",
+    "lookType": 2421,
+    "level": 0
+  },
+  {
+    "name": "Shadowpelt",
+    "lookType": 1040,
+    "level": 1540
+  },
+  {
+    "name": "Shadowstalker",
+    "lookType": 456,
+    "level": 520
+  },
+  {
+    "name": "Shadowthorn",
+    "lookType": 391,
+    "level": 2650
+  },
+  {
+    "name": "Shaper Matriarch",
+    "lookType": 933,
+    "level": 3600
+  },
+  {
+    "name": "Shark",
+    "lookType": 453,
+    "level": 1200
+  },
+  {
+    "name": "Sharpshooter Anahita",
+    "lookType": 2149,
+    "level": 3000
+  },
+  {
+    "name": "Sharptooth",
+    "lookType": 20,
+    "level": 950
+  },
+  {
+    "name": "Shell Drake",
+    "lookType": 2273,
+    "level": 2100
+  },
+  {
+    "name": "Shlorg",
+    "lookType": 565,
+    "level": 275
+  },
+  {
+    "name": "Sibang",
+    "lookType": 118,
+    "level": 75
+  },
+  {
+    "name": "Silencer",
+    "lookType": 585,
+    "level": 702
+  },
+  {
+    "name": "Skeleton",
+    "lookType": 33,
+    "level": 15
+  },
+  {
+    "name": "Skeleton Warrior",
+    "lookType": 298,
+    "level": 20
+  },
+  {
+    "name": "Skippy",
+    "lookType": 347,
+    "level": 650
+  },
+  {
+    "name": "Skullfrost",
+    "lookType": 991,
+    "level": 2850
+  },
+  {
+    "name": "Skybound Squibear",
+    "lookType": 2434,
+    "level": 0
+  },
+  {
+    "name": "Skywarden",
+    "lookType": 2185,
+    "level": 3500
+  },
+  {
+    "name": "Snowbash",
+    "lookType": 1608,
+    "level": 3000
+  },
+  {
+    "name": "Snowman",
+    "lookType": 1169,
+    "level": 2500
+  },
+  {
+    "name": "Souleater",
+    "lookType": 355,
+    "level": 604
+  },
+  {
+    "name": "Sparkion",
+    "lookType": 883,
+    "level": 2000
+  },
+  {
+    "name": "Spectral Paladin",
+    "lookType": 2103,
+    "level": 3600
+  },
+  {
+    "name": "Spellmarked Beast",
+    "lookType": 2436,
+    "level": 0
+  },
+  {
+    "name": "Sphinx",
+    "lookType": 1232,
+    "level": 1200
+  },
+  {
+    "name": "Spiky Carnivor",
+    "lookType": 1139,
+    "level": 2565
+  },
+  {
+    "name": "Spirit of the Abyss",
+    "lookType": 2146,
+    "level": 4350
+  },
+  {
+    "name": "Spit Nettle",
+    "lookType": 221,
+    "level": 110
+  },
+  {
+    "name": "Spiteful Spitter",
+    "lookType": 1584,
+    "level": 2200
+  },
+  {
+    "name": "Spitter",
+    "lookType": 461,
+    "level": 350
+  },
+  {
+    "name": "Squid Warden",
+    "lookType": 1059,
+    "level": 2700
+  },
+  {
+    "name": "Static Golem",
+    "lookType": 67,
+    "level": 0
+  },
+  {
+    "name": "Sting",
+    "lookType": 230,
+    "level": 400
+  },
+  {
+    "name": "Stingy Jack",
+    "lookType": 292,
+    "level": 0
+  },
+  {
+    "name": "Stone Devourer",
+    "lookType": 486,
+    "level": 115
+  },
+  {
+    "name": "Stone Golem",
+    "lookType": 67,
+    "level": 0
+  },
+  {
+    "name": "Stone Rhino",
+    "lookType": 936,
+    "level": 1110
+  },
+  {
+    "name": "Stonecracker",
+    "lookType": 55,
+    "level": 500
+  },
+  {
+    "name": "Stoned Devourer",
+    "lookType": 486,
+    "level": 115
+  },
+  {
+    "name": "Stormswift",
+    "lookType": 1232,
+    "level": 1300
+  },
+  {
+    "name": "Sugar Cube",
+    "lookType": 2134,
+    "level": 3500
+  },
+  {
+    "name": "Sugar Cube Worker",
+    "lookType": 2137,
+    "level": 3600
+  },
+  {
+    "name": "Sugar Daddy",
+    "lookType": 2144,
+    "level": 2800
+  },
+  {
+    "name": "Sugar Mommy",
+    "lookType": 2144,
+    "level": 2800
+  },
+  {
+    "name": "Sureza",
+    "lookType": 309,
+    "level": 900
+  },
+  {
+    "name": "Svoren the Mad",
+    "lookType": 254,
+    "level": 0
+  },
+  {
+    "name": "Tamed Dragon Lord",
+    "lookType": 39,
+    "level": 0
+  },
+  {
+    "name": "Tamru the Black",
+    "lookType": 2032,
+    "level": 3100
+  },
+  {
+    "name": "Tar Razhka",
+    "lookType": 933,
+    "level": 3600
+  },
+  {
+    "name": "Techno Blade",
+    "lookType": 1610,
+    "level": 2515
+  },
+  {
+    "name": "Teether",
+    "lookType": 1066,
+    "level": 1900
+  },
+  {
+    "name": "Terramite",
+    "lookType": 346,
+    "level": 1550
+  },
+  {
+    "name": "Terrasteel Elemental",
+    "lookType": 2150,
+    "level": 3600
+  },
+  {
+    "name": "Terror Bird",
+    "lookType": 218,
+    "level": 175
+  },
+  {
+    "name": "Terrorsleep",
+    "lookType": 593,
+    "level": 2300
+  },
+  {
+    "name": "Test Boss",
+    "lookType": 1947,
+    "level": 0
+  },
+  {
+    "name": "Testing Boss",
+    "lookType": 128,
+    "level": 0
+  },
+  {
+    "name": "Thal'Runyx",
+    "lookType": 2436,
+    "level": 0
+  },
+  {
+    "name": "Thal'Xyrr",
+    "lookType": 2431,
+    "level": 0
+  },
+  {
+    "name": "Thalas",
+    "lookType": 90,
+    "level": 900
+  },
+  {
+    "name": "Thanatursus",
+    "lookType": 1134,
+    "level": 2400
+  },
+  {
+    "name": "The Brainstealer",
+    "lookType": 1686,
+    "level": 0
+  },
+  {
+    "name": "The Devourer of Secrets",
+    "lookType": 309,
+    "level": 0
+  },
+  {
+    "name": "The False God",
+    "lookType": 984,
+    "level": 2550
+  },
+  {
+    "name": "The Fear Feaster",
+    "lookType": 586,
+    "level": 820
+  },
+  {
+    "name": "The Flaming Orchid",
+    "lookType": 1068,
+    "level": 805
+  },
+  {
+    "name": "The Great Schnitzel",
+    "lookType": 1080,
+    "level": 2200
+  },
+  {
+    "name": "The Last Lore Keeper",
+    "lookType": 939,
+    "level": 2700
+  },
+  {
+    "name": "The Many",
+    "lookType": 121,
+    "level": 400
+  },
+  {
+    "name": "The Masked Marauder",
+    "lookType": 234,
+    "level": 0
+  },
+  {
+    "name": "The Obliverator",
+    "lookType": 35,
+    "level": 0
+  },
+  {
+    "name": "The Old Widow",
+    "lookType": 208,
+    "level": 150
+  },
+  {
+    "name": "The Pale Worm",
+    "lookType": 1287,
+    "level": 1400
+  },
+  {
+    "name": "The Pit Lord",
+    "lookType": 55,
+    "level": 0
+  },
+  {
+    "name": "The Rootkraken",
+    "lookType": 2117,
+    "level": 4250
+  },
+  {
+    "name": "The Sandking",
+    "lookType": 1013,
+    "level": 0
+  },
+  {
+    "name": "The Unarmored Voidborn",
+    "lookType": 987,
+    "level": 1800
+  },
+  {
+    "name": "The Welter",
+    "lookType": 563,
+    "level": 0
+  },
+  {
+    "name": "The book of Death",
+    "lookType": 1061,
+    "level": 3400
+  },
+  {
+    "name": "Thorin",
+    "lookType": 539,
+    "level": 115
+  },
+  {
+    "name": "Thorn Steed",
+    "lookType": 626,
+    "level": 2700
+  },
+  {
+    "name": "Thornback Tortoise",
+    "lookType": 198,
+    "level": 900
+  },
+  {
+    "name": "Thul",
+    "lookType": 46,
+    "level": 300
+  },
+  {
+    "name": "Thundergiant",
+    "lookType": 994,
+    "level": 2500
+  },
+  {
+    "name": "Tidebloom Anemone",
+    "lookType": 2415,
+    "level": 0
+  },
+  {
+    "name": "Timira the Many-headed",
+    "lookType": 1803,
+    "level": 2600
+  },
+  {
+    "name": "Tiny",
+    "lookType": 285,
+    "level": 500
+  },
+  {
+    "name": "Toad",
+    "lookType": 222,
+    "level": 235
+  },
+  {
+    "name": "Tooth Fairy",
+    "lookType": 2257,
+    "level": 3080
+  },
+  {
+    "name": "Tormentor",
+    "lookType": 245,
+    "level": 800
+  },
+  {
+    "name": "Tortoise",
+    "lookType": 197,
+    "level": 800
+  },
+  {
+    "name": "Toxic Leaf",
+    "lookType": 1600,
+    "level": 2000
+  },
+  {
+    "name": "Toxic Ravager",
+    "lookType": 855,
+    "level": 4300
+  },
+  {
+    "name": "Toxic Swarm",
+    "lookType": 1680,
+    "level": 2100
+  },
+  {
+    "name": "Tremendous Tyrant",
+    "lookType": 1676,
+    "level": 2050
+  },
+  {
+    "name": "Tremor Worm",
+    "lookType": 295,
+    "level": 0
+  },
+  {
+    "name": "Triteia",
+    "lookType": 1417,
+    "level": 2800
+  },
+  {
+    "name": "Troll",
+    "lookType": 15,
+    "level": 10
+  },
+  {
+    "name": "Trolliver",
+    "lookType": 53,
+    "level": 2550
+  },
+  {
+    "name": "True Dawnfire Asura",
+    "lookType": 1068,
+    "level": 802
+  },
+  {
+    "name": "True Midnight Asura",
+    "lookType": 1068,
+    "level": 803
+  },
+  {
+    "name": "Truffle",
+    "lookType": 2131,
+    "level": 0
+  },
+  {
+    "name": "Truffle Cook",
+    "lookType": 2132,
+    "level": 3500
+  },
+  {
+    "name": "Truffle Ramsay Rager",
+    "lookType": 2132,
+    "level": 4500
+  },
+  {
+    "name": "Tundra Guardian",
+    "lookType": 1849,
+    "level": 3000
+  },
+  {
+    "name": "Tundra's Monarch",
+    "lookType": 1939,
+    "level": 2500
+  },
+  {
+    "name": "Turtleneck",
+    "lookType": 1433,
+    "level": 0
+  },
+  {
+    "name": "Two-Headed Turtle",
+    "lookType": 1797,
+    "level": 2100
+  },
+  {
+    "name": "Tyrn",
+    "lookType": 562,
+    "level": 320
+  },
+  {
+    "name": "Unbound Demon Outcast",
+    "lookType": 590,
+    "level": 1550
+  },
+  {
+    "name": "Undead Dragon",
+    "lookType": 231,
+    "level": 950
+  },
+  {
+    "name": "Undead Gladiator",
+    "lookType": 306,
+    "level": 395
+  },
+  {
+    "name": "Urmahlullu",
+    "lookType": 1238,
+    "level": 350
+  },
+  {
+    "name": "Utua Stone Sting",
+    "lookType": 398,
+    "level": 1100
+  },
+  {
+    "name": "Vampire",
+    "lookType": 68,
+    "level": 175
+  },
+  {
+    "name": "Vampire Bride",
+    "lookType": 312,
+    "level": 215
+  },
+  {
+    "name": "Vampire Viscount",
+    "lookType": 555,
+    "level": 360
+  },
+  {
+    "name": "Varg",
+    "lookType": 2271,
+    "level": 2100
+  },
+  {
+    "name": "Varnished Diremaw",
+    "lookType": 1677,
+    "level": 3500
+  },
+  {
+    "name": "Vemiath",
+    "lookType": 1988,
+    "level": 3750
+  },
+  {
+    "name": "Venerable Girtablilu",
+    "lookType": 1684,
+    "level": 751
+  },
+  {
+    "name": "Verdant Aether Guardian",
+    "lookType": 103,
+    "level": 0
+  },
+  {
+    "name": "Verdant Cherub",
+    "lookType": 2240,
+    "level": 2500
+  },
+  {
+    "name": "Verminor",
+    "lookType": 238,
+    "level": 505
+  },
+  {
+    "name": "Vhal'Ruun",
+    "lookType": 2416,
+    "level": 0
+  },
+  {
+    "name": "Vibrant Phantom",
+    "lookType": 1587,
+    "level": 2350
+  },
+  {
+    "name": "Vicious Manbat",
+    "lookType": 554,
+    "level": 355
+  },
+  {
+    "name": "Vicious Squire",
+    "lookType": 131,
+    "level": 185
+  },
+  {
+    "name": "Vile Grandmaster",
+    "lookType": 268,
+    "level": 190
+  },
+  {
+    "name": "Vinefiend",
+    "lookType": 2117,
+    "level": 3500
+  },
+  {
+    "name": "Vivid Crawler",
+    "lookType": 981,
+    "level": 2250
+  },
+  {
+    "name": "Vivid Doughy Abyss",
+    "lookType": 2130,
+    "level": 4500
+  },
+  {
+    "name": "Vlad Dracula",
+    "lookType": 287,
+    "level": 365
+  },
+  {
+    "name": "Void Watcher",
+    "lookType": 1659,
+    "level": 2500
+  },
+  {
+    "name": "Voidclaw",
+    "lookType": 876,
+    "level": 1300
+  },
+  {
+    "name": "Voidcore Incarnate",
+    "lookType": 2423,
+    "level": 0
+  },
+  {
+    "name": "Vulcongra",
+    "lookType": 509,
+    "level": 3500
+  },
+  {
+    "name": "Wailing Widow",
+    "lookType": 347,
+    "level": 650
+  },
+  {
+    "name": "Wandering Pillar",
+    "lookType": 1977,
+    "level": 3600
+  },
+  {
+    "name": "War Golem",
+    "lookType": 326,
+    "level": 2950
+  },
+  {
+    "name": "Warlock",
+    "lookType": 130,
+    "level": 465
+  },
+  {
+    "name": "Waspoid",
+    "lookType": 462,
+    "level": 525
+  },
+  {
+    "name": "Water Elemental",
+    "lookType": 286,
+    "level": 2500
+  },
+  {
+    "name": "Watereye",
+    "lookType": 2413,
+    "level": 0
+  },
+  {
+    "name": "Weak Ghost",
+    "lookType": 48,
+    "level": 2000
+  },
+  {
+    "name": "Webster",
+    "lookType": 263,
+    "level": 0
+  },
+  {
+    "name": "Werebadger",
+    "lookType": 729,
+    "level": 1500
+  },
+  {
+    "name": "Werebear",
+    "lookType": 720,
+    "level": 1520
+  },
+  {
+    "name": "Wereboar",
+    "lookType": 721,
+    "level": 1510
+  },
+  {
+    "name": "Werecrocodile",
+    "lookType": 1967,
+    "level": 3600
+  },
+  {
+    "name": "Werefox",
+    "lookType": 1030,
+    "level": 1530
+  },
+  {
+    "name": "Weretiger",
+    "lookType": 1966,
+    "level": 3080
+  },
+  {
+    "name": "White Dragon",
+    "lookType": 1213,
+    "level": 350
+  },
+  {
+    "name": "White Pale",
+    "lookType": 564,
+    "level": 0
+  },
+  {
+    "name": "White Weretiger",
+    "lookType": 1966,
+    "level": 3090
+  },
+  {
+    "name": "Wilting Leaf Golem",
+    "lookType": 573,
+    "level": 105
+  },
+  {
+    "name": "Wingless Pterodactyl",
+    "lookType": 1816,
+    "level": 2260
+  },
+  {
+    "name": "World Devourer",
+    "lookType": 1916,
+    "level": 3200
+  },
+  {
+    "name": "Wraithspire",
+    "lookType": 2299,
+    "level": 2100
+  },
+  {
+    "name": "Wrathaurus",
+    "lookType": 2013,
+    "level": 3750
+  },
+  {
+    "name": "Wyrm",
+    "lookType": 291,
+    "level": 275
+  },
+  {
+    "name": "Wyvern",
+    "lookType": 239,
+    "level": 120
+  },
+  {
+    "name": "Yakchal",
+    "lookType": 149,
+    "level": 3000
+  },
+  {
+    "name": "Yalahari",
+    "lookType": 309,
+    "level": 950
+  },
+  {
+    "name": "Yalahari Guardian",
+    "lookType": 309,
+    "level": 0
+  },
+  {
+    "name": "Yalahari Healer",
+    "lookType": 309,
+    "level": 0
+  },
+  {
+    "name": "Yeti",
+    "lookType": 110,
+    "level": 2850
+  },
+  {
+    "name": "Yielothax",
+    "lookType": 408,
+    "level": 600
+  },
+  {
+    "name": "Ymir",
+    "lookType": 1849,
+    "level": 2800
+  },
+  {
+    "name": "Young Sea Serpent",
+    "lookType": 317,
+    "level": 535
+  },
+  {
+    "name": "Zanakeph",
+    "lookType": 231,
+    "level": 850
+  },
+  {
+    "name": "Zarabustor",
+    "lookType": 130,
+    "level": 450
+  },
+  {
+    "name": "Zargoth the Marrowreaver",
+    "lookType": 2171,
+    "level": 2120
+  },
+  {
+    "name": "Zarrax",
+    "lookType": 1528,
+    "level": 3600
+  },
+  {
+    "name": "Zathroth",
+    "lookType": 1063,
+    "level": 3200
+  },
+  {
+    "name": "Zathroth Guardian",
+    "lookType": 1914,
+    "level": 3200
+  },
+  {
+    "name": "Zevelon Duskbringer",
+    "lookType": 287,
+    "level": 200
+  },
+  {
+    "name": "Zombie",
+    "lookType": 311,
+    "level": 700
+  },
+  {
+    "name": "Zombified Monstrosity",
+    "lookType": 1350,
+    "level": 350
+  },
+  {
+    "name": "Zulazza the Corruptor",
+    "lookType": 334,
+    "level": 925
+  },
+  {
+    "name": "Zushuka",
+    "lookType": 149,
+    "level": 3100
+  }
+]
